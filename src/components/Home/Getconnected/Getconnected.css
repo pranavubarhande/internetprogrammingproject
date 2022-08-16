@@ -1,0 +1,44 @@
+.maindivgetc{
+    clear: left;
+    margin-top:200px;
+    margin-bottom: 50px;
+    margin-left:0px;
+    margin-right:0px;
+    padding: 50px 50px;
+    font-family: 'Catamaran';
+    font-weight: bold;
+    background-color: yellow;
+}
+.maindivgetc h1 {
+    font-size: 25px;
+}
+.maindivgetc p {
+    font-size: 15px;
+}
+.divforform{
+    background-color: white;
+    border-radius: 20px;
+    max-width: 400px;
+    
+}
+.mainform{
+    padding: 20px 20px;
+    
+}
+.mainform input{
+    display: block;
+    padding: 20px 20px;
+    max-width: 400px;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.mainform label{
+    display: block;
+    padding: 20px 20px;
+}
+@media screen and (max-width: 644px) {
+    
+    
+    
+    
+  }

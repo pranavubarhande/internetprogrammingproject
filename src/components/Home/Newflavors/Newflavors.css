@@ -1,0 +1,60 @@
+.mainframe{
+    margin: 100px 30px;
+}
+.heading{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif-oswald;
+}
+.imgmain{
+    margin: auto;
+}
+.combineburger{
+    justify-self: start;
+}
+.showburg{
+    display: inline-block;
+
+    width: 23%;
+    text-align: center;
+    margin: 20px 5px;
+}
+.subimages{
+    width: 100%;
+    background-color:rgb(226, 215, 215);
+    height: 200px;
+    /* position: absolute;
+    width: 23%; */
+    
+}
+.btnsub{
+    border-color: gray;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+@media screen and (max-width: 560px) {
+    .showburg{
+        display: inline-block;
+    
+        width: 47%;
+        text-align: center;
+        margin: 20px 5px;
+    }
+    
+    
+  }
+
+@media screen and (max-width: 394px) {
+    .showburg{
+        display: inline-block;
+    
+        width: 97%;
+        text-align: center;
+        margin: 20px 5px;
+    }
+    
+    
+  }
